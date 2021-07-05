@@ -1,0 +1,19 @@
+body{
+    /* background-color: cadetblue; */
+    transition: 1.5s;
+}
+#result{
+    width: 100%;
+    height: 9vh;
+    background-color: white;
+
+}
+
+.btn:visited,.btn:focus{
+    box-shadow: none !important;
+}
+
+#start.btn:hover, #stop.btn:hover{
+    background-color: white !important;
+    color: black !important;
+}
